@@ -1,0 +1,18 @@
+.odd_number {
+    background-color: rgb(232, 133, 133);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#sec_ele {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four_ele {
+    background-color: rgb(172, 239, 83);
+    font-weight: bold;
+}
